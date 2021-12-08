@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @J-Srinivasalu
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning android development
-- 💞️ I’m looking to collaborate on android development, embedded systems, IoT
+- 💞️ I’m looking to collaborate on android development, embedded systems, IoT, DevOps
 - 📫 How to reach me srinivasalujuldi@gmail.com
 
 <!---
