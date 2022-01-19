@@ -1,7 +1,15 @@
 - 👋 Hi, I’m J Srinivasalu -- (u can call me srinivas😇)
-- 🌱 I’m currently learning android development, DevOps
+- 🎓 I'm a graduate in B Tech Electronics and communication Engineering
+- 🌱 I’m currently learning android development, DevOps, 3D designing with fusion360
 - 💞️ I’m looking to collaborate on android development, embedded systems, IoT, DevOps
 - 📫 How to reach me srinivasalujuldi@gmail.com
+
+## Worked with Microcontrollers and Microprocessors
+<p>
+	![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+	![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+</p>
+
 
 ## Languages
 
@@ -30,6 +38,7 @@
 	<a href="#"><img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white"></a>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
 </p>
+
 
 ## Connect with Me
 
