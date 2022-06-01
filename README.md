@@ -1,4 +1,4 @@
-- 👋 Hi, I’m J Srinivasalu -- (u can call me srinivas😇)
+- 👋 Hi, I’m J Srinivasalu -- (u can call me srinivas)
 - 🌱 I’m currently learning android development, DevOps, 3D designing with fusion360
 - 💞️ I’m looking to collaborate on android development, embedded systems, IoT, DevOps
 - 📫 How to reach me srinivasalujuldi@gmail.com
