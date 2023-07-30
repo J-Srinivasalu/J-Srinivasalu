@@ -1,13 +1,19 @@
-- 👋 Hi, I’m J Srinivasalu -- (u can call me srinivas)
-- 🌱 I’m currently learning android development, Web development, 3D designing with fusion360
-- 💞️ I’m looking to collaborate on android development, embedded systems, IoT, Web development
-- 📫 How to reach me srinivasalujuldi@gmail.com
+# Hi there! 👋 I'm Srinivas
 
-## Worked with Microcontrollers and Microprocessors
-<p>
-	<a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
-	<a href="#"><img alt="Raspberry PI" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"></a>
-</p>
+Passionate Mobile App Developer | Advancing in Microservices | AI Enthusiast
+
+## About Me
+
+I am a passionate and results-driven Application Developer with hands-on experience in building efficient and user-centric mobile applications. Currently working at IBM, I specialize in developing robust microservices using Spring Boot. My main focus lies in crafting seamless user experiences while embracing the potential of AI for tomorrow's solutions.
+
+## Tech Stack
+
+- Mobile App Development: Kotlin, Flutter (MVVM)
+- Microservices: Spring Boot
+- AI & Data Analysis Enthusiast
+- IoT Application, Robotics, and Electronics
+- Raspberry Pi, Arduino
+- 3D Designing with Fusion360
 
 
 ## Languages
@@ -22,20 +28,13 @@
 	<a href="#"><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
 </p>
 
-## IDEs/Editors
-<p>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"></a>
-</p>
 
-## Connect with Me
-
+## Get in touch
 
 <p align="center">
   <a href="https://www.linkedin.com/in/j-srinivasalu-09381b178/"><img alt="Linkedin" title="Srinivas Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/J-Srinivasalu"><img alt="Github" title="Srinivas Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://twitter.com/SrinivasJ26"><img alt="Twitter" title="Srinivas Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+
+ Let's collaborate on exciting mobile app development, microservices, AI, and IoT projects! Feel free to reach out, and let's turn ideas into reality.
 </p>
