@@ -1,10 +1,11 @@
+
 # Hi there! 👋 I'm Srinivas
 
 Passionate Mobile App Developer | Advancing in Microservices | AI Enthusiast
 
 ## About Me
 
-I am a passionate and results-driven Application Developer with hands-on experience in building efficient and user-centric mobile applications. Currently working at IBM, I specialize in developing robust microservices using Spring Boot. My main focus lies in crafting seamless user experiences while embracing the potential of AI for tomorrow's solutions.
+I am a passionate and results-driven Application Developer with hands-on experience in building efficient and user-centric mobile applications. I specialize in developing robust microservices using Spring Boot. My main focus lies in crafting seamless user experiences while embracing the potential of AI for tomorrow's solutions.
 
 ## Tech Stack
 
